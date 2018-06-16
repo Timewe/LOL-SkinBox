@@ -6,7 +6,7 @@
 诗蓝LOL换肤盒子又满血复活啦！！！这次软件的再次更新预示着诗蓝LOl换肤盒子将会越做越好，软件采用全新的UI界面，科技感十足，并且在实用性和操作简易上作了大量的优化。软件支持账号登录啦，自定义你个性的账号并且方便登录，其它更多功能介绍请继续往下看。
 《诗蓝LOL换肤盒子》安全稳定无封号
 
-https://img.alicdn.com/imgextra/i4/1868019847/TB2_8t4cm7PL1JjSZFHXXcciXXa_!!1868019847.jpg
+![诗蓝LOL换肤盒子预览](https://img.alicdn.com/imgextra/i4/1868019847/TB2_8t4cm7PL1JjSZFHXXcciXXa_!!1868019847.jpg)
 
 英雄全皮肤全特效体验，细化分类方便选择
 
