@@ -1,6 +1,6 @@
 # 诗蓝LOL换肤盒子--LOL英雄联盟最好的换肤软件！
 
-诗蓝LOL换肤盒子官网： http://skinx.cc
+诗蓝LOL换肤盒子官网： http://box.skinx.cc
 
 ##诗蓝LOL换肤盒子又满血复活啦！！！这次软件的再次更新预示着诗蓝LOl换肤盒子将会越做越好，软件采用全新的UI界面，科技感十足，并且在实用性和操作简易上作了大量的优化。软件支持账号登录啦，自定义你个性的账号并且方便登录，其它更多功能介绍请继续往下看。
 《诗蓝LOL换肤盒子》安全稳定无封号
@@ -37,6 +37,6 @@
 在为英雄更换皮肤的同时，我们也为你准备了多款小兵的皮肤，包括冰雪节、电玩、泳池派对、源计划等等>，点击恢复默认即可取消设定。
 ![](https://raw.githubusercontent.com/Timewe/LOL-SkinBox/master/overview/%E5%B0%8F%E5%85%B53.jpg)
 
-#诗蓝LOL换肤盒子官网： http://skinx.cc
+#诗蓝LOL换肤盒子官网： http://box.skinx.cc
 
 
