@@ -11,7 +11,7 @@
 
 ![](https://raw.githubusercontent.com/Timewe/LOL-SkinBox/master/overview/%E8%8B%B1%E9%9B%84.jpg)
 
-##生涯功能可以设定头像，收藏常用英雄，还可自选无限视距、反和谐补丁
+##生涯功能可以设定头像，收藏常用英雄，还可游戏内换肤、动态换肤、云顶之弈小小英雄、进攻特效、反和谐补丁
 
 ![](https://raw.githubusercontent.com/Timewe/LOL-SkinBox/master/overview/%E7%94%9F%E6%B6%AF.jpg)
 
